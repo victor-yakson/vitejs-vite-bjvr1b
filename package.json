@@ -10,5 +10,12 @@
   },
   "devDependencies": {
     "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "@wagmi/core": "^0.10.10",
+    "@web3modal/ethereum": "^2.3.7",
+    "@web3modal/html": "^2.3.7",
+    "dotenv": "^16.0.3",
+    "ethers": "^5"
   }
 }
